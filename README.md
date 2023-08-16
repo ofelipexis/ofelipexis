@@ -10,6 +10,7 @@ Você pode me encontrar também no [Linkedin](https://www.linkedin.com/in/ofelip
 
 ### Meus últimos posts no [DEV.to](https://dev.to/ofelipexis):
 <!-- BLOG-POST-LIST:START -->
+- [Como configurar duas contas do GitHub no seu computador utilizando chaves SSH](https://dev.to/ofelipexis/como-configurar-duas-contas-do-github-no-seu-computador-utilizando-chaves-ssh-e80)
 <!-- BLOG-POST-LIST:END -->
 ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipexis&layout=compact&theme=codeSTACKr)](https://github.com/ofelipexis/ofelipexis/)
