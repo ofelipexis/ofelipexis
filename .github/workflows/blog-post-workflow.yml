@@ -2,9 +2,7 @@ name: latest blog post workflow
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour
     - cron: '0 * * * *'
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -13,7 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # Your RSS feed url
           feed_list: "https://dev.to/feed/ofelipexis"
-          # Maximum number of posts you want
-          max_post_count: 5
