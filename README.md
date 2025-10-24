@@ -2,7 +2,7 @@
 
 Software Developer with 3 years of experience with Java, Python, Javascript/Typescript.
 
-Reach me: [Linkedin](https://www.linkedin.com/in/ofelipemendes/)
+Reach me: [Linkedin](https://www.linkedin.com/in/ofelipemendes/?locale=en_US)
 
 ### Latest blog posts on [DEV.to](https://dev.to/ofelipexis) (pt-BR):
 <!-- BLOG-POST-LIST:START -->
